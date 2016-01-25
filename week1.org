@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       AB2BA8C8-8399-4A9D-A405-9EAA5D40A6B2
+:PUBDATE:  <2016-01-25 Mon 15:01>
+:END:
+
+#+BEGIN_HTML
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Breakup, as captured by my fitbit. <a href="https://twitter.com/hashtag/breakup?src=hash">#breakup</a> <a href="https://twitter.com/hashtag/Fitbit?src=hash">#Fitbit</a> <a href="https://t.co/S9sLV2TlCC">pic.twitter.com/S9sLV2TlCC</a></p>&mdash; Koby (@iamkoby) <a href="https://twitter.com/iamkoby/status/689521611611971588">January 19, 2016</a></blockquote>
+
+#+END_HTML
+
+[[http://mashable.com/2016/01/20/fitbit-captures-breakup-moment/#Fc][Fitbit captures exact moment of devestating heartbreak]].
+an interesting case, this guy made the personal decision to disclose  of disclosure
+and made the decision to share this data, along with his captioning.
+
+[[http://spectrum.ieee.org/view-from-the-valley/biomedical/devices/siliconbased-sensors-slip-into-the-brain-then-dissolve-when-their-jobs-are-done][Sensors that dissolve in the brain]].
+from the same lab that brought us
+[[http://spectrum.ieee.org/biomedical/devices/a-temporary-tattoo-that-senses-through-your-skin][biosensing tattoos]].
+
+[[http://arstechnica.co.uk/security/2016/01/how-to-search-the-internet-of-things-for-photos-of-sleeping-babies/][How to search the internet of things for pictures of sleeping babies]]. 
+shodan search engine serves as a creepy reminder of why we need IoT security
+
+[[http://cacm.acm.org/careers/197309-catching-heartbeats-with-millimeter-wave-radar/fulltext][Catching heartbeats with millimeter-wave radar]]. sensing heartrate without sensors on the body. here's a funny quote about how our pervasive sensing future will be "casual and relaxed":
+
+#+BEGIN_QUOTE
+"Heartbeats can now be measured without placing sensors on the human body, thanks to a new technology developed in Japan. 'Taking measurements with sensors on the body can be stressful and troublesome, because you have to stop what you're doing,' says Hiroyuki Sakai, a researcher at Panasonic. 'What we tried to make was something that would offer people a way to monitor their body in a casual and relaxed environment.'" 
+#+END_QUOTE
+
+[[http://www.darpa.mil/news-events/2015-01-19][DARPA - Bridging the bio-electric divide]]. DARPA in the biosensing game with a $60m brain-computer interface grant.

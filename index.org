@@ -1,0 +1,8 @@
+* week 1
+:PROPERTIES:
+:ID:       E4094FA6-AA3E-48C1-917A-ECEA09EBD8B8
+:PUBDATE:  <2016-01-25 Mon 14:47>
+:END:
+
+[[file:week1.org][week1.]]
+darpa drops money on bci research; fitbit data captures a breakup; sensing heartrate from a distance
