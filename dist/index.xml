@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	   xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	   xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	   xmlns:dc="http://purl.org/dc/elements/1.1/"
+	   xmlns:atom="http://www.w3.org/2005/Atom"
+	   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	   xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	   xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>our.coolworld.me RSS</title>
+  <atom:link href="http://our.coolworld.me/index.xml" rel="self" type="application/rss+xml" />
+  <link>http://our.coolworld.me/</link>
+  <description><![CDATA[]]></description>
+  <language>en</language>
+  <pubDate>Tue, 26 Jan 2016 01:15:59 -0800</pubDate>
+  <lastBuildDate>Tue, 26 Jan 2016 01:15:59 -0800</lastBuildDate>
+  <generator>Emacs 24.5 Org-mode 8.3.2</generator>
+  <webMaster>ffff@MacBook-Air-2.local (ffff)</webMaster>
+  <image>
+    <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
+    <title>our.coolworld.me RSS</title>
+    <link>http://our.coolworld.me/</link>
+  </image>
+
+  <h1>this week in biosensing</h1>
+
+  <item>
+    <title>1 - darpa drops money on bci research; fitbit data captures a breakup; sensing heartrate from a distance</title>
+    <link>http://our.coolworld.me/index.html#orgheadline1</link>
+    <author>ffff</author>
+    <guid isPermaLink="false">http://our.coolworld.me/index.html#orgheadline1</guid>
+    <pubDate>Tue, 26 Jan 2016 00:43:00 -0800</pubDate>
+
+    <description><![CDATA[<p>
+    <a href="http://cacm.acm.org/careers/197309-catching-heartbeats-with-millimeter-wave-radar/fulltext">Catching heartbeats with millimeter-wave radar</a>. sensing heartrate without sensors on the body. here's a funny quote about how our pervasive sensing future will be "casual and relaxed":
+    </p>
+
+    <blockquote>
+    <p>
+    "Heartbeats can now be measured without placing sensors on the human body, thanks to a new technology developed in Japan. 'Taking measurements with sensors on the body can be stressful and troublesome, because you have to stop what you're doing,' says Hiroyuki Sakai, a researcher at Panasonic. 'What we tried to make was something that would offer people a way to monitor their body in a casual and relaxed environment.'" 
+    </p>
+    </blockquote>
+
+    <p>
+    <a href="http://www.darpa.mil/news-events/2015-01-19">DARPA - Bridging the bio-electric divide</a>. DARPA in the biosensing game with a $60m brain-computer interface grant.
+    </p>
+
+
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Breakup, as captured by my fitbit. <a href="https://twitter.com/hashtag/breakup?src=hash">#breakup</a> <a href="https://twitter.com/hashtag/Fitbit?src=hash">#Fitbit</a> <a href="https://t.co/S9sLV2TlCC">pic.twitter.com/S9sLV2TlCC</a></p>&mdash; Koby (@iamkoby) <a href="https://twitter.com/iamkoby/status/689521611611971588">January 19, 2016</a></blockquote>
+
+    <p>
+    <a href="http://mashable.com/2016/01/20/fitbit-captures-breakup-moment/#Fc">Fitbit captures exact moment of devestating heartbreak</a>.
+    an interesting case, this guy made the personal decision to disclose  of disclosure
+    and made the decision to share this data, along with his captioning.
+    </p>
+
+    <p>
+    <a href="http://spectrum.ieee.org/view-from-the-valley/biomedical/devices/siliconbased-sensors-slip-into-the-brain-then-dissolve-when-their-jobs-are-done">Sensors that dissolve in the brain</a>.
+    from the same lab that brought us
+    <a href="http://spectrum.ieee.org/biomedical/devices/a-temporary-tattoo-that-senses-through-your-skin">biosensing tattoos</a>.
+    </p>
+
+    <p>
+    <a href="http://arstechnica.co.uk/security/2016/01/how-to-search-the-internet-of-things-for-photos-of-sleeping-babies/">How to search the internet of things for pictures of sleeping babies</a>. 
+    shodan search engine serves as a creepy reminder of why we need IoT security
+    </p>
+    ]]></description>
+  </item>
+</channel>
+</rss>
