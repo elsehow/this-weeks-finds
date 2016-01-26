@@ -1,0 +1,22 @@
+{
+  "name": "this-weeks-finds",
+  "version": "1.0.0",
+  "description": "a blog of this weeks finds",
+  "main": "index.js",
+  "scripts": {
+    "start": "./rename-file && ecstatic dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsehow/this-weeks-finds.git"
+  },
+  "author": "elsehow",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/elsehow/this-weeks-finds/issues"
+  },
+  "homepage": "https://github.com/elsehow/this-weeks-finds#readme",
+  "dependencies": {
+    "ecstatic": "^1.4.0"
+  }
+}

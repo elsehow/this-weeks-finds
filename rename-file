@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if [ -f dist/this-weeks-finds.org ]
+  then
+    mv dist/this-weeks-finds.html dist/index.html
+fi
