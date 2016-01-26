@@ -14,8 +14,8 @@
   <link>http://our.coolworld.me/</link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Tue, 26 Jan 2016 10:43:25 -0800</pubDate>
-  <lastBuildDate>Tue, 26 Jan 2016 10:43:25 -0800</lastBuildDate>
+  <pubDate>Tue, 26 Jan 2016 11:15:45 -0800</pubDate>
+  <lastBuildDate>Tue, 26 Jan 2016 11:15:45 -0800</lastBuildDate>
   <generator>Emacs 24.5 Org-mode 8.3.2</generator>
   <webMaster>ffff@MacBook-Air-2.local (ffff)</webMaster>
   <image>
@@ -27,17 +27,13 @@
   <h1>this week in sensing</h1>
 
   <item>
-    <title>1</title>
+    <title>1 - darpa grants on bci research; fitbit captures breakup; sensing heartrate from a distance</title>
     <link>http://our.coolworld.me/this-weeks-finds.html#orgheadline1</link>
     <author>ffff</author>
     <guid isPermaLink="false">http://our.coolworld.me/this-weeks-finds.html#orgheadline1</guid>
     <pubDate>Tue, 26 Jan 2016 00:43:00 -0800</pubDate>
 
     <description><![CDATA[<p>
-    <i>darpa drops money on bci research; fitbit data captures a breakup; sensing heartrate from a distance</i>
-    </p>
-
-    <p>
     <a href="http://cacm.acm.org/careers/197309-catching-heartbeats-with-millimeter-wave-radar/fulltext">Catching heartbeats with millimeter-wave radar</a>. sensing heartrate without sensors on the body. here's a funny quote about how our pervasive sensing future will be "casual and relaxed":
     </p>
 

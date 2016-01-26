@@ -13,6 +13,7 @@ a {
   border-bottom-style: solid;
   border-width: 2px;
   font-weight:bold;
+  font-size:1.1em
 }
 
 a:hover {
@@ -21,5 +22,16 @@ a:hover {
 
 h1 {
   font-size: 1.2em;
-  padding-bottom:1em;
+}
+
+h2 {
+     color: #FEE;
+    font-style: italic;
+    padding: 23px 0px 23px 30px;
+    width: 110%;
+    font-weight: normal;
+}
+
+footer {
+  padding-top:20px;
 }
