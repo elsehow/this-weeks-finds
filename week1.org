@@ -1,7 +1,5 @@
-:PROPERTIES:
-:ID:       AB2BA8C8-8399-4A9D-A405-9EAA5D40A6B2
-:PUBDATE:  <2016-01-25 Mon 15:01>
-:END:
+
+darpa drops money on bci research; fitbit data captures a breakup; sensing heartrate from a distance
 
 #+BEGIN_HTML
 
