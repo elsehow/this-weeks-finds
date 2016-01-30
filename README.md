@@ -10,6 +10,10 @@ a blog of finds
 
     npm start
 
+to watch for changes to this-weeks-finds.md (the file my emacs generates)
+
+    npm run watch
+
 ## license
 
 all content copyright nick merrill

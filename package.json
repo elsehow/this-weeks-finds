@@ -4,7 +4,8 @@
   "description": "a blog of this weeks finds",
   "main": "index.js",
   "scripts": {
-    "start": "./rename-file && ecstatic dist"
+    "start": "./rename-file && ecstatic dist",
+    "watch": "gulp watch"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/elsehow/this-weeks-finds#readme",
   "dependencies": {
-    "ecstatic": "^1.4.0"
+    "ecstatic": "^1.4.0",
+    "gulp": "^3.9.0"
   }
 }
