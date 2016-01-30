@@ -14,8 +14,8 @@
   <link>http://our.coolworld.me/</link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Fri, 29 Jan 2016 19:08:50 -0800</pubDate>
-  <lastBuildDate>Fri, 29 Jan 2016 19:08:50 -0800</lastBuildDate>
+  <pubDate>Fri, 29 Jan 2016 19:35:50 -0800</pubDate>
+  <lastBuildDate>Fri, 29 Jan 2016 19:35:50 -0800</lastBuildDate>
   <generator>Emacs 24.5 Org-mode 8.3.2</generator>
   <webMaster>ffff@MacBook-Air-2.local (ffff)</webMaster>
   <image>
@@ -41,9 +41,12 @@
 
     <p>
     <a href="http://iniwall.com/2015/11/27/control-objects-with-only-the-power-of-your-mind-with-openbci/">OpenBCI videos</a>. 
-    4 people control giant shark blimp with BCI. Interesting that the word "biosensing" is used here.
+    4 people control giant shark blimp with BCI. 
     </p>
     <iframe width="420" height="315" src="https://www.youtube.com/embed/Qnr3YWWAZL0" frameborder="0" allowfullscreen></iframe>
+    <p>
+    Interesting that the word "biosensing" is used here.
+    </p>
 
     <p>
     <a href="https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final56.pdf?ncid=txtlnkusaolp00000618">On the feasability of side-channel attacks with brain-computer interfaces</a>. 

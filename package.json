@@ -4,7 +4,7 @@
   "description": "a blog of this weeks finds",
   "main": "index.js",
   "scripts": {
-    "start": "./rename-file && ecstatic dist",
+    "start": "ecstatic dist",
     "watch": "gulp watch"
   },
   "repository": {
